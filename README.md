@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm TANDev! 👋
 
-<!--
-**TANDev-cmyk/TANDev-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🚀 **Age:** 18 years old
+- 🎓 **Status:** Student & Self-Taught Developer
+- 🎯 **Focus:** Exploring software development, logic, and building cool things.
+- ⚡ **Motto:** `while(alive) { code(); }`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://vercel.app" alt="TANDev's GitHub stats" height="180px" />
+<img src="https://vercel.app" alt="Top Langs" height="180px" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
+</p>
